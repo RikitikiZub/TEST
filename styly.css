@@ -1,0 +1,76 @@
+#h1 {
+    text-align: center;
+}
+
+#h3 {
+    color: rgb(1, 122, 37);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.prav {
+    text-align: right;
+}
+
+#p {
+    text-align: left;
+}
+#forest {
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px;
+    border-color: rgb(167, 83, 83);
+    border-radius: 1cm;
+    margin: auto;   
+    background-color:  rgb(250, 223, 223);                    
+}
+
+#text {
+    color: brown;
+}
+
+#shaw {
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px;
+    border-color: rgb(167, 83, 83);
+    border-radius: 1cm;
+    margin: auto; 
+    background-color: azure;                      
+}
+#pulp {
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px;
+    border-color: rgb(167, 83, 83);
+    border-radius: 1cm;
+    margin: auto;  
+    background-color: rgb(231, 235, 175);                     
+}
+#temn {
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px;
+    border-color: rgb(167, 83, 83);
+    border-radius: 1cm;
+    margin: auto; 
+    background-color: rgb(176, 245, 222);                      
+}
+#panp {
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px;
+    border-color: rgb(167, 83, 83);
+    border-radius: 1cm;
+    margin: auto;  
+    background-color: rgb(222, 203, 247);                     
+}
+
+ul{
+    list-style-type: disc;
+    color: rgb(150, 76, 76);
+}
+ol{
+    list-style-type: upper-roman;
+}
+
+ul li {
+    color: rgb(3, 3, 139);
+}
