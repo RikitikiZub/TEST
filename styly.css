@@ -5,6 +5,27 @@
 #h3 {
     color: rgb(1, 122, 37);
 }
+#Forest{
+    color: rgb(1, 122, 37);
+}
+/* tr:nth-child(even){
+    background-color: blueviolet;
+} */
+tr:hover {
+    background-color: rgba(160, 160, 255, 0.635);
+}
+#Vykoup{
+    color: rgb(1, 122, 37);
+}
+#Pulp{
+    color: rgb(1, 122, 37);
+}
+#Temny{
+    color: rgb(1, 122, 37);
+}
+#panprd{
+    color: rgb(1, 122, 37);
+}
 
 body {
     background-color: rgb(255, 255, 255);
@@ -17,6 +38,8 @@ body {
 #p {
     text-align: left;
 }
+
+
 #forest {
     border: 2px rgb(0, 0, 0) solid;
     padding: 10px;
@@ -85,4 +108,7 @@ ol{
 
 ul li {
     color: rgb(3, 3, 139);
+}
+#obsah ul li{
+    color: rgb(0, 0, 0);
 }
