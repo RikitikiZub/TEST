@@ -1,0 +1,8 @@
+#forest {
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px;
+    border-color: rgb(167, 83, 83);
+    border-radius: 1cm;
+    margin: auto;   
+    background-color:  rgb(250, 223, 223);   
+}
