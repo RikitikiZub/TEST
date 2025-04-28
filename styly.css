@@ -1,6 +1,47 @@
+#topmenu {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(28, 16, 248);
+    overflow: hidden;
+}
+#topmenu li {
+    float: left;
+}
+#topmenu a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    border-right: 1px white solid;
+}
+#topmenu a:hover{
+    background-color: rgba(147, 205, 255, 0.705);
+    border: 3px white solid;
+    border-radius: 10px;
+}
+#leftmenu{
+    width: 100px;
+    background-color: blueviolet;
+    float: left;
+}
+#leftmenu a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    border: 1px white solid;
+}
+#leftmenu a:hover{
+    border-radius: 10px;
+    background-color: rgb(185, 111, 255);
+}
+
 #h1 {
     text-align: center;
 }
+
 
 #h3 {
     color: rgb(1, 122, 37);
