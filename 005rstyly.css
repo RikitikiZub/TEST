@@ -1,0 +1,44 @@
+#panp {
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px;
+    border-color: rgb(167, 83, 83);
+    border-radius: 1cm;
+    margin: auto;  
+    background-color: rgb(222, 203, 247);                     
+}
+#topmenu {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(28, 16, 248);
+    overflow: hidden;
+}
+#topmenu li {
+    float: left;
+}
+#topmenu a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    border-right: 1px white solid;
+}
+#topmenu a:hover{
+    background-color: rgba(147, 205, 255, 0.705);
+    border: 3px white solid;
+    border-radius: 10px;}
+.prav {
+        text-align: right;}
+td, th, table{
+border-collapse: collapse;
+border: 1px black solid;
+        }
+td{
+padding: 5px;
+        }
+th{
+background-color: blue;
+color: white;
+        }
+tr:hover {
+            background-color: rgba(160, 160, 255, 0.635);}
