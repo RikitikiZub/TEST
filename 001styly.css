@@ -15,6 +15,7 @@
     padding: 15px;
     display: block;
     border-right: 1px white solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #topmenu a:hover{
     background-color: rgba(147, 205, 255, 0.705);
